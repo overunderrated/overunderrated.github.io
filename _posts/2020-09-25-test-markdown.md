@@ -72,7 +72,27 @@ Sometimes a wifeframe logo is easier on the eyes, matching more minimal themes, 
 [![final2](https://i.postimg.cc/QMk8yRxR/Screen-Shot-2020-09-26-at-3-35-55-PM.png)][23]
 [![final3](https://i.postimg.cc/mDLLf8Ph/Screen-Shot-2020-09-26-at-3-36-30-PM.png)][24]
 
+## Info request
 
+#### Landing page
+* titles for each section
+* promo text at the top, like a banner. For instance to advertise new DIY kits, or news
+
+#### About
+* About content
+
+#### Events
+* Upcoming events info
+
+#### Find us
+* Info about the bird truck (optional)
+
+#### Shop
+* Shop guideline
+* Shop information: delivery range, delivery dates, delivery procedure, information needed for delivery
+* Menu items with description and price (eg. whats included in the DIY kits)
+* Checkout notice
+* Confirmation of delivery line
 
 
 

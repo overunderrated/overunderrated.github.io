@@ -1,0 +1,131 @@
+I"ç<p>With the ubiquity of app ordering and social media, having a brand presence online is an important gateway for many people. Customers can access the site on any device, while vendors have an easier time managing orders and deliveries.</p>
+
+<p>The goal is to provide a online extension of the brandâ€™s visual language and utility such that an organic, growing environment is sown.</p>
+
+<p><strong>Websites are now the virtual extensions of retail spaces. Architects, interior designs and civil engineers can be equally important as web developers, graphic designers and data engineers.</strong></p>
+
+<h2 id="brief">Brief</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Feature</th>
+      <th style="text-align: left">Spec</th>
+      <th style="text-align: left">Implementation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Pages</td>
+      <td style="text-align: left">Landing page + 8</td>
+      <td style="text-align: left">Wix, CSS, HTML</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Social media</td>
+      <td style="text-align: left">In page link with img support</td>
+      <td style="text-align: left">API</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Events</td>
+      <td style="text-align: left">RSS Feed or input from social media</td>
+      <td style="text-align: left">RSS, API</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MapAPI</td>
+      <td style="text-align: left">User location, truck location, delivery range</td>
+      <td style="text-align: left">Google Maps API</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Shop</td>
+      <td style="text-align: left">user history, basket, sign up, delivery check</td>
+      <td style="text-align: left">Wix e-Commerce, Google Maps API</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">User account</td>
+      <td style="text-align: left">login, history, notifications</td>
+      <td style="text-align: left">SQL database, python</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="journey">Journey</h2>
+<h3 id="uiux-architecture">UI/UX Architecture</h3>
+<p>All images can be opened via their link in a new tab for higher resolutions.
+<a href="https://i.postimg.cc/rmvb4syX/UIX.png[]"><img src="https://i.postimg.cc/rmvb4syX/UIX.png" alt="UI/UX" /></a>
+<a href="https://i.postimg.cc/9fKwvPL6/vertical.png">vert</a></p>
+<h3 id="visual-language">Visual language</h3>
+
+<p><a href="https://i.postimg.cc/nVv4Fz5s/proto.png[]"><img src="https://i.postimg.cc/nVv4Fz5s/proto.png" alt="proto" /></a>
+<a href="https://i.postimg.cc/hjHc0Ppn/colorp.png[]"><img src="https://i.postimg.cc/hjHc0Ppn/colorp.png" alt="color palette" /></a>
+<a href="https://i.postimg.cc/BQpRSnHv/muted.png[]"><img src="https://i.postimg.cc/BQpRSnHv/muted.png" alt="color palette muted" /></a>
+<a href="https://i.postimg.cc/nrkSh3sW-/icons.png[]"><img src="https://i.postimg.cc/nrkSh3sW-/icons.png" alt="icons" /></a></p>
+
+<p>Derived from the original brand green, a penta color map associating a more colorful selection of hues to give a sense of joy or fun.</p>
+
+<p>A muted color palette displays a refined or elegant look.</p>
+
+<p>Minimal icons for contemporary graphic design and are easily understandable by most website users.</p>
+
+<p><a href="https://i.postimg.cc/V6TJV4Fj/typo.png[]"><img src="https://i.postimg.cc/V6TJV4Fj/typo.png" alt="typo" /></a></p>
+
+<p>The condensed, old fashioned typography of Bernard MT Condensed is nicely contrasted with the monospace, computerised font Courier.</p>
+
+<p><a href="https://i.postimg.cc/SsDsM4RQ/title.png[]"><img src="https://i.postimg.cc/SsDsM4RQ/title.png" alt="title" /></a></p>
+
+<p>Sometimes a wifeframe logo is easier on the eyes, matching more minimal themes, while filled fonts give a bold, high contrast appearance.</p>
+
+<h2 id="user-map">User Map</h2>
+<p><a href="https://i.postimg.cc/0jcv74PK/lp.png[]"><img src="https://i.postimg.cc/0jcv74PK/lp.png" alt="landing" /></a>
+<a href="https://i.postimg.cc/x80YJQDS/about.png[]"><img src="https://i.postimg.cc/x80YJQDS/about.png" alt="about" /></a>
+<a href="https://i.postimg.cc/sfc3FM7f/where.png[]"><img src="https://i.postimg.cc/sfc3FM7f/where.png" alt="where" /></a>
+<a href="https://i.postimg.cc/vH2MBC0p/events.png[]"><img src="https://i.postimg.cc/vH2MBC0p/events.png" alt="events" /></a>
+<a href="https://i.postimg.cc/zG9rwKZ7/store.png[]"><img src="https://i.postimg.cc/zG9rwKZ7/store.png" alt="store" /></a>
+<a href="https://i.postimg.cc/gk2mGGHV/basket.png[]"><img src="https://i.postimg.cc/gk2mGGHV/basket.png" alt="basket" /></a>
+<a href="https://i.postimg.cc/fR3s05Fk/conf.png[]"><img src="https://i.postimg.cc/fR3s05Fk/conf.png" alt="conf" /></a></p>
+
+<h2 id="layouts">Layouts</h2>
+
+<p><a href="https://i.postimg.cc/6QLmZD1T/f1.png[]"><img src="https://i.postimg.cc/6QLmZD1T/f1.png" alt="f1" /></a>
+<a href="https://i.postimg.cc/pdtSp2Cg/f2.png[]"><img src="https://i.postimg.cc/pdtSp2Cg/f2.png" alt="f2" /></a>
+<a href="https://i.postimg.cc/rF332Gry/g1.png[]"><img src="https://i.postimg.cc/rF332Gry/g1.png" alt="g1" /></a>
+<a href="https://i.postimg.cc/RFSbLXjd/g2.png[]"><img src="https://i.postimg.cc/RFSbLXjd/g2.png" alt="g2" /></a>
+<a href="https://i.postimg.cc/BQXkz7tw/l1.png[]"><img src="https://i.postimg.cc/BQXkz7tw/l1.png" alt="l1" /></a>
+<a href="https://i.postimg.cc/0jH3QDXf/v1.png[]"><img src="https://i.postimg.cc/0jH3QDXf/v1.png" alt="v1" /></a>
+<a href="https://i.postimg.cc/NjXVsy66/scroll1.png[]"><img src="https://i.postimg.cc/NjXVsy66/scroll1.png" alt="scroll1" /></a>
+<a href="https://i.postimg.cc/VktLjSys/Screen-Shot-2020-09-26-at-3-35-00-PM.png[]"><img src="https://i.postimg.cc/VktLjSys/Screen-Shot-2020-09-26-at-3-35-00-PM.png" alt="final" /></a>
+<a href="https://i.postimg.cc/QMk8yRxR/Screen-Shot-2020-09-26-at-3-35-55-PM.png[]"><img src="https://i.postimg.cc/QMk8yRxR/Screen-Shot-2020-09-26-at-3-35-55-PM.png" alt="final2" /></a>
+<a href="https://i.postimg.cc/mDLLf8Ph/Screen-Shot-2020-09-26-at-3-36-30-PM.png[]"><img src="https://i.postimg.cc/mDLLf8Ph/Screen-Shot-2020-09-26-at-3-36-30-PM.png" alt="final3" /></a></p>
+
+<h2 id="info-request">Info request</h2>
+
+<h4 id="landing-page">Landing page</h4>
+<ul>
+  <li>titles for each section</li>
+  <li>promo text at the top, like a banner. For instance to advertise new DIY kits, or news</li>
+</ul>
+
+<h4 id="about">About</h4>
+<ul>
+  <li>About content</li>
+</ul>
+
+<h4 id="events">Events</h4>
+<ul>
+  <li>Upcoming events info</li>
+</ul>
+
+<h4 id="find-us">Find us</h4>
+<ul>
+  <li>Info about the bird truck (optional)</li>
+</ul>
+
+<h4 id="shop">Shop</h4>
+<ul>
+  <li>Shop guideline</li>
+  <li>Shop information: delivery range, delivery dates, delivery procedure, information needed for delivery</li>
+  <li>Menu items with description and price (eg. whats included in the DIY kits)</li>
+  <li>Checkout notice</li>
+  <li>Confirmation of delivery line</li>
+</ul>
+
+:ET
